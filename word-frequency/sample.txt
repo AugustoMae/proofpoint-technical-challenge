@@ -1,0 +1,13 @@
+The quick brown fox jumps over the lazy dog. This is a sample text for testing word frequency analysis. The quick brown fox appears multiple times in this text to demonstrate how the word frequency counter works.
+
+Word frequency analysis is an important technique in natural language processing. It helps us understand which words are most common in a given text. This can be useful for many applications including text analysis, search engines, and data mining.
+
+In this sample text, we have included various words with different frequencies. Some words like "the", "and", "to" appear very frequently in English texts. Other words appear less frequently. The word frequency analyzer should count all words regardless of their frequency.
+
+Let's add some more content to make this text more interesting. Technology has revolutionized how we process and analyze text data. Machine learning algorithms can now understand text patterns and extract meaningful insights from large volumes of text.
+
+Python is a popular programming language for text analysis. Libraries like NLTK, spaCy, and scikit-learn provide powerful tools for natural language processing. These tools make it easier to perform tasks like tokenization, stemming, and word frequency analysis.
+
+The quick brown fox jumps again! This time we're testing punctuation handling. The analyzer should remove punctuation and special characters, counting only the actual words. Words with different capitalization should be treated as the same word.
+
+Finally, let's conclude this sample text with a summary. Word frequency analysis is a fundamental technique that helps us understand text data better. By counting word occurrences, we can identify patterns and extract insights from any text document.
