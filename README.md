@@ -1,5 +1,9 @@
 # Proofpoint Intern Program 2026 – Technical Challenge
 
+Author: Augusto Maero
+
+University: UTN FRC
+
 ---
 
 ## Part A – Questions
@@ -155,3 +159,20 @@ python word_frequency.py sample.txt
 ```
 
 **Requirements:** Python 3.7+, no external dependencies.
+
+## Repository Structure
+```
+proofpoint-technical-challenge/
+│
+├── README.md
+│
+├── streaming-episodes/
+│   ├── episodes.csv
+│   ├── episodes_clean.csv
+│   ├── process_episodes.py
+│   └── report.md
+│
+└── word-frequency/
+    ├── sample.txt
+    └── word_frequency.py
+```
